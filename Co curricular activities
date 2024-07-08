@@ -8,14 +8,14 @@
 
 using namespace std;
 
-// Constants
+// These are the constants we will use
 const int MAX_STUDENTS_PER_GROUP = 50;
 const int MAX_SPORT_CAPACITY = 20;
 const int MAX_CLUB_CAPACITY = 60;
 const double MAX_CLUB_GENDER_PERCENTAGE = 0.5;
 const double MAX_SPORT_GENDER_PERCENTAGE = 0.75;
 
-// Structures
+//This is the Structures
 struct Student {
     string firstname;
     string surname;
