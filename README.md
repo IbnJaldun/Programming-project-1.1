@@ -19,7 +19,7 @@ canParticipateInClubs(): Checks if a student can participate in clubs based on c
 viewStudents(): Displays a list of students participating in sports and clubs (placeholder implementation using random names).
 generateRandomName(): Generates a random name based on gender ('M' or 'F').
 viewClubs(): Displays a list of available clubs.
-viewSports(): Displays a list of available sports.
+viewSports(): Displays a list of available sports
 viewGroupedStudents(): Placeholder method for future implementation.
 saveToFile(): Saves student data to a CSV file (students.csv)
 
